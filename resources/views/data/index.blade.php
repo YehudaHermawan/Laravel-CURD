@@ -19,14 +19,14 @@
   </div>
   <table class="table table-bordered table-striped">
    <tr>
-    <th>ID</th>
-    <th>Judul</th>
-    <th>Pengarang</th>
-    <th>Kategori</th>
-    <th>Tahun Terbit</th>
-    <th>Penerbit</th>
-    <th>Edit</th>
-    <th>Delete</th>
+    <th> ID </th>
+    <th> Judul </th>
+    <th> Pengarang </th>
+    <th> Kategori </th>
+    <th> Tahun Terbit </th>
+    <th> Penerbit </th>
+    <th> Edit </th>
+    <th> Delete </th>
    </tr>
    @foreach($data as $row)
    <tr>
